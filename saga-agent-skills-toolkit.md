@@ -1,5 +1,8 @@
+---
+name: saga-agent-skills-toolkit
+description: "Multi agent toolkit for Solana builders..."
+---
 # hackathon-project-social-playbook
-
 ## Description
 
 You just submitted your hackathon project. Now what? Most teams ship great products but fail to tell their story and in crypto, narrative is half the battle. Without a clear social strategy, even the best projects get buried.
