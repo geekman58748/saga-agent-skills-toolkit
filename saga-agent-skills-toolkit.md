@@ -1,6 +1,14 @@
 ---
 name: saga-agent-skills-toolkit
-description: "Multi agent toolkit for Solana builders..."
+description: "A specialized agentic toolkit for Solana builders. Features two core workflows: /hackathon for generating end-to-end social playbooks based on Colosseum success patterns, and /founder for architecting technical personal brands. Includes native Telegram Mini App integration and persistent memory."
+license: MIT
+compatibility: "Requires network access for Telegram API and Replit-hosted backend. Works via any browser or Telegram client."
+metadata:
+  version: "1.0.0"
+  author: "Maxx"
+  ecosystem: "Solana"
+  track: "SagaPad Colosseum Skills"
+allowed-tools: "Bash(git:*)"
 ---
 # hackathon-project-social-playbook
 ## Description
